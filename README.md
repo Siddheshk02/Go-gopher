@@ -37,7 +37,7 @@ Use "Gopher [command] --help" for more information about a command.
 ```
 Run : go run main.go _PLANET_ _WEIGHT_
 ```
- go run main.go moon 60 _OR_ go run main.go Moon 60
+ go run main.go moon 60  _OR_  go run main.go Moon 60
  
  >Enter the Weight on Earth 🌎 
  >60
