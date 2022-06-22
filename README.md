@@ -1,4 +1,4 @@
-# CLI created using Golang and Cobra CLI - to find out Weight on different Planets  
+# CLI created using Golang and Cobra CLI - to find out Weight on different Planets :rocket: :rocket:  
 
 ```
  go run main.go
