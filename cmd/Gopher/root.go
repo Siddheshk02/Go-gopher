@@ -8,10 +8,13 @@ import (
 	"github.com/spf13/cobra"
 )
 
+var version = "0.0.1"
+
 var rootCmd = &cobra.Command{
 
-	Use:   "Gopher",
-	Short: "Gopher - A simple CLI to Check weight on different planets",
+	Use:     "Gopher",
+	Version: version,
+	Short:   "Gopher - A simple CLI to Check weight on different planets",
 	Long: `Gopher - A simple CLI
 - One can use to Check weight on different planets`,
 
