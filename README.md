@@ -45,5 +45,5 @@ Run : go run main.go _PLANET_ _WEIGHT_
  ```
  ```
  go run main.go --version
- >
+ > Gopher version 0.0.1
  ```
